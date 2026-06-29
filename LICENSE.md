@@ -1,4 +1,4 @@
-# 
+# 专业 AI Fake News Detector 模板。集成 自动决策 和 生成式AI，性能最大化。
 
 
 
